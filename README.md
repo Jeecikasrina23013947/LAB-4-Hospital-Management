@@ -7,7 +7,8 @@ This application provides a way to record this information and to access these i
 
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-![image](https://github.com/Niroshassithanathan/LAB-4-Hospital-Management/assets/121418437/13071fc3-006d-410f-8cec-548117133083)
+![WhatsApp Image 2024-04-27 at 22 12 32_04ac1bfe](https://github.com/Jeecikasrina23013947/LAB-4-Hospital-Management/assets/148515300/5ad37756-6207-4827-8a50-9fb9ba09327d)
+
 
 ### Sequence Daigram:
 ![image](https://github.com/Niroshassithanathan/LAB-4-Hospital-Management/assets/121418437/6a0f850f-300a-4f8d-ab33-271e77610ba9)
